@@ -8,6 +8,7 @@ public class suanfatest001 {
     private static String fun1() {
 
         System.out.println("初始化");
+        System.out.println("第一次提交本地库");
         return null;
     }
 }
