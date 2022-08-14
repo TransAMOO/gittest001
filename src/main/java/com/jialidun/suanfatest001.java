@@ -12,6 +12,8 @@ public class suanfatest001 {
         System.out.println("第二次提交本地库");
         System.out.println("第三次提交本地库");
         System.out.println("第四次提交本地库");
+        System.out.println("在branch01上第一次提交本地库");
+        System.out.println("在branch01上第二次提交本地库");
         return null;
     }
 }
