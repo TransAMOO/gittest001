@@ -9,6 +9,7 @@ public class suanfatest001 {
 
         System.out.println("初始化");
         System.out.println("第一次提交本地库");
+        System.out.println("第二次提交本地库");
         return null;
     }
 }
